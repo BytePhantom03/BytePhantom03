@@ -6,6 +6,14 @@
 
 ## 🚀 Projects
 
+### 🤖 RAG-Based PDF Chatbot  
+An intelligent chatbot powered by **RAG (Retrieval-Augmented Generation)** that allows users to **upload any PDF** and **ask questions in natural language**.  
+The chatbot uses **LangChain** for context retrieval and **OpenAI GPT models** to generate accurate, context-aware answers in real time.  
+Built with **Python**, **LangChain**, **FAISS**, **OpenAI API**, and **Streamlit**.  
+🔗 [GitHub Repo](https://github.com/BytePhantom03/RAG-Based-PDF-Chatbot)
+
+---
+
 ### 👗 FashionFinder – Fashion Recommendation System  
 A content-based recommender system that helps users discover similar fashion products using deep learning and cosine similarity.  
 Built using **TensorFlow**, **Pandas**, **Numpy**, and **Streamlit**.  
