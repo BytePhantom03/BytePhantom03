@@ -35,6 +35,8 @@ Users can create custom mazes, compare algorithm efficiency, and manipulate grid
 Stack: **React.js**, **Vite**, **Tailwind CSS**, **JavaScript**  
 🔗 [GitHub Repo](https://github.com/BytePhantom03/PathFinderX)
 
+---
+
 
 ## 🌱 I’m currently learning
 
