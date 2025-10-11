@@ -22,6 +22,13 @@ Built using **TensorFlow**, **Pandas**, **Numpy**, and **Streamlit**.
 
 ---
 
+### 📄 AI-Driven Resume Insight Engine  
+An intelligent **resume analyzer** powered by **AI** and **LLMs** to deliver **data-driven hiring insights**, automate **candidate shortlisting**, and enhance **resume–job description alignment**.  
+This engine extracts and compares key skills, computes **semantic similarity scores**, and provides **personalized feedback** using **BERT embeddings** and modern NLP pipelines.  
+🔗 [GitHub Repo](https://github.com/BytePhantom03/AI-Driven-Resume-Insight-Engine.git)
+
+---
+
 ### 🧠 DupDetect – Duplicate Question Pair Detection  
 An ML/NLP-based classifier to detect duplicate questions like Quora. Uses text preprocessing, TF-IDF, and XGBoost for classification.  
 Tech: **Python**, **Sklearn**, **TF-IDF**, **NLP**, **XGBoost**.  
