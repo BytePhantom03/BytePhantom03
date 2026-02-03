@@ -92,7 +92,7 @@ Stack: **React.js**, **Vite**, **Tailwind CSS**, **JavaScript**
 
 ## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayvasoya1&show_icons=true&locale=en&layout=compact" alt="jayvasoya1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ravi Zapadiya&show_icons=true&locale=en&layout=compact" alt="Ravi Zapadiya" /></p>
 
 ---
 
